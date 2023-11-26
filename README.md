@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aptypio.github.io/rsschool-cv/cv
