@@ -39,3 +39,6 @@ function multiply(a, b){
     + Java
 * Headbridge
     + Middle Java Developer
+# __Languages__:
+- __Russian:__ Native
+- __English:__ B1
